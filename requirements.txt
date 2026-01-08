@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+beautifulsoup4
+rapidfuzz
+google-auth
+google-api-python-client
+gspread
